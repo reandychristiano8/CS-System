@@ -1,0 +1,6 @@
+{
+  "name": "CleanDesk — Manajemen Tugas Cleaning Service Kantor",
+  "description": "Sistem manajemen tugas cleaning service kantor real-time dengan autentikasi sesi terisolasi, ceklist bukti foto sebelum-sesudah, dan dashboard pemantauan supervisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
